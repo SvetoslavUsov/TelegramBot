@@ -1,0 +1,11 @@
+.env
+
+.mypy_cache/
+.vscode/
+venv/
+__pycache__/
+bylevo.txt
+count_pobeditel.txt
+players_id.txt
+players.txt
+time.txt
